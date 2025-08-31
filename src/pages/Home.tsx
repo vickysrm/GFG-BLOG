@@ -40,17 +40,18 @@ const Home = () => {
             
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
               <span className="bg-gradient-cosmic bg-clip-text text-transparent">
-                Code, Create, 
+                Hi, I'm Vignesh, 
               </span>
               <br />
               <span className="text-foreground">
-                Innovate
+                A Cyber Security student at SRM, passionate about web development and creating 
+  innovative digital experiences.
               </span>
             </h1>
             
             <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-              Dive into a universe of modern web development, cutting-edge projects, 
-              and insights that push the boundaries of technology and creativity.
+               I'm Vignesh, studying Cyber Security at SRM. I'm passionate about web development 
+               and love building creative and innovative projects.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
